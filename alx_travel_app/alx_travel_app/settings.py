@@ -38,7 +38,7 @@ INSTALLED_APPS = [
     'django.contrib.messages',
     'django.contrib.staticfiles',
     #Third party
-    "cors_headers",
+    # "cors_headers",
     #Local apps
     "listings.apps.ListingsConfig",
 ]
